@@ -1,0 +1,10 @@
+Node:
+  Classic for:
+  587.021831035614 milisegundos
+  For each:
+  1822.1291236877441 milisegundos
+  Every:
+  0.2331538200378418 milisegundos
+  For of:
+  1917.050992012024 milisegundos
+
