@@ -1,0 +1,5 @@
+
+> node-express-static-web-server@1.0.0 start /home/usuario/investigacion
+> node web-server/app.js
+
+The server is running on http://<your machine IP addr>:8083
