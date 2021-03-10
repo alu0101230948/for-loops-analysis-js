@@ -1,8 +1,8 @@
-- [Looping an array analysis](#looping-an-array-analysis)
+- [Análisis de distintas formas de iterar vectores](#análisis-de-distintas-formas-de-iterar-vectores)
   - [Objetivo](#objetivo)
   - [Resultados](#resultados)
   - [Conclusiones](#conclusiones)
-# Looping an array analysis
+# Análisis de distintas formas de iterar vectores
 ## Objetivo
 El objetivo de esta investigación es analizar los tiempos que tardan las distintas formas de recorrer un vector (`Array`) en JavaScript. Se ha utilizado para ello cuatro maneras distintas:
 - for clásico
